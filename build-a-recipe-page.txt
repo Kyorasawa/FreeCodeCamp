@@ -1,0 +1,32 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>hello world!</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <h1>Hello world</h1>
+    <p>Hello world</p>
+    <h2>Ingredients</h2>
+    <ul>
+      <li>hello</li>
+      <li>hello</li>
+      <li>hello</li>
+      <li>hello</li> 
+    </ul>
+    <h2>Instructions</h2>
+    <ol>
+      <li>hello</li>  
+      <li>hello</li>  
+      <li>hello</li>  
+      <li>hello</li>  
+    </ol> 
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="A plated meal with vegetables and meat">
+  </body>
+</html>
+
+
+** end of index.html **
+
