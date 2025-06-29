@@ -1,0 +1,61 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+        <h1>Hello World</h1>
+        <p>Hello world</p>
+
+        <section>
+            <h2>Заголовок</h2>
+            <p>Описание первого видео.</p>
+            <iframe 
+                src="https://www.youtube.com/embed/cwZb2mqId0A" 
+                title="Посадка Apollo 11 на Луну" 
+                width="560" 
+                height="315" 
+                frameborder="0" 
+                allowfullscreen>
+            </iframe>
+        </section>
+
+        <section>
+            <h2>Заголовок</h2>
+            <p>Описание второго видео.</p>
+            <iframe 
+                src="https://www.youtube.com/embed/kG8UbNRNrn0" 
+                title="МКС видео" 
+                width="560" 
+                height="315" 
+                frameborder="0" 
+                allowfullscreen>
+            </iframe>
+        </section>
+
+        <section>
+            <h2>Заголовок</h2>
+            <p>Описание третьего видео.</p>
+            <iframe 
+                src="https://www.youtube.com/embed/t9cRzUq6fYI" 
+                title="Марсоход Perseverance" 
+                width="560" 
+                height="315" 
+                frameborder="0" 
+                allowfullscreen>
+            </iframe>
+        </section>
+    </main>
+</body>
+
+</html>
+
+
+** end of index.html **
+
